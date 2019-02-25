@@ -1,0 +1,20 @@
+[
+  {
+    "approvalLevel": 1,
+    "participant": {
+      "user": "lucas.silva"
+    }
+  },
+  {
+    "approvalLevel": 2,
+    "participant": {
+      "user": "joao.silva"
+    }
+  },
+  {
+    "approvalLevel": 3,
+    "participant": {
+      "user": "luiz.silva"
+    }
+  }
+]
